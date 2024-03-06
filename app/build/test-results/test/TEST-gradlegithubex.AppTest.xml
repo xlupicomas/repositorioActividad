@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gradlegithubex.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-06T14:12:24" hostname="DESKTOP-IOFS6O2" time="0.014">
+  <properties/>
+  <testcase name="appSuma()" classname="gradlegithubex.AppTest" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
