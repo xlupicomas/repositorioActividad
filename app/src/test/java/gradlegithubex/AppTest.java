@@ -9,6 +9,6 @@ import static org.junit.jupiter.api.Assertions.*;
 class AppTest {
     @Test void appSuma() {
         App classUnderTest = new App();
-        assertEquals(5, classUnderTest.sumar(1, 3));
+        assertEquals(5, classUnderTest.sumar(1, 4));
     }
 }
