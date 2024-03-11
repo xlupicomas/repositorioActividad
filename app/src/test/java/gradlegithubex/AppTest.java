@@ -11,4 +11,8 @@ class AppTest {
         App classUnderTest = new App();
         assertEquals(5, classUnderTest.sumar(1, 4));
     }
+    @Test void appRestar() {
+        App classUnderTest = new App();
+        assertEquals(1, classUnderTest.restar(3, 2));
+    }
 }

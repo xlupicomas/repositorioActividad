@@ -16,4 +16,8 @@ public class App {
         int nR = n1 + n2;
         return nR;
     }
+    public int restar(int n1, int n2){
+        int nR = n1 - n2;
+        return nR;
+    }
 }
